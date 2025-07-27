@@ -1,7 +1,6 @@
 Zerodha Dashboard and Backend
 Overview
 This project is a stockbroker platform inspired by Zerodha, featuring a user-friendly dashboard and landing page. The platform enables users to view real-time stock data through interactive charts, manage their portfolio, and execute stock transactions. It is built with a robust full-stack architecture using React.js, Node.js, Express.js, and MongoDB.
-
 Features
 Landing Page: Introduces the platform and provides an intuitive onboarding process.
 Dashboard: Displays real-time stock data with interactive and dynamic charts.
