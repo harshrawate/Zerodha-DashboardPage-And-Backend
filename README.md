@@ -25,4 +25,4 @@ Installation and Setup
 Prerequisites
 Node.js and npm installed
 MongoDB installed and running locally or accessible through a cloud service
-Cloudinary account for image storage.
+Cloudinary account for image storage
